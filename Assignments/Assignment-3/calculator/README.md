@@ -1,36 +1,6 @@
+PLFP- ASSIGNMENT-3 PROBLEM -2
+LANGUAGE : CLOJURE
 # calculator
-
-FIXME: description
-
-## Installation
-
-Download from http://example.com/FIXME.
-
-## Usage
-
-FIXME: explanation
-
-    $ java -jar calculator-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
-
-## License
-
-Copyright © 2016 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+1. Main code is in src/calculator/core.clj
+2. Run the code using the command "lein run"
+3. Calculator does Addition Subtraction Multiplication and Division(except by zero,in which case raises error) for numbers.
